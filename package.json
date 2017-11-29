@@ -1,7 +1,7 @@
 {
   "name": "flappycoin",
   "description": "Communicate with flappycoind via JSON-RPC, forked from npm package, bitcoin",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "main": "lib/index.js",
   "keywords": [
     "flappycoin",
